@@ -46,4 +46,8 @@ Users:
 
 @route GET api/user/createadmin @desc Get a list of admins @access Private 
 
+Description: This application is a full stack E-Commerce website complete with login, register, and admin endpoints. The application allows the user to look at products, add them to cart, and connect their PayPal account for purchasing. By allowing products and orders to be edited and deleted, this application gives way to a real life E-Commerce website experience. There is also different ways of filtering products on the application such as price and category. Enjoy!!
+
+Technologies Used on Server: NodeJS, MongoDB, and Mocha
+
 
