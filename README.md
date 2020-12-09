@@ -44,6 +44,6 @@ Users:
 
 @route POST api/user/register @desc Register a new user @access Public
 
-@route GET api/user/createadmin @desc Get a list of admins @access Private
+@route GET api/user/createadmin @desc Get a list of admins @access Private 
 
 
